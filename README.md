@@ -1,1 +1,1 @@
-# maritime-university-lms
+# Learning Management System for Maritime University
