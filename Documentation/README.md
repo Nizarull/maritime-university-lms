@@ -4,5 +4,5 @@ This directory contains the project documentation for the Learning Management Sy
 
 ## Contents
 
-- [Project Background](project-background/README.md)
-- [System Requirements](system-requirements/README.md)
+- [Project Background](Project-Background/README.md)
+- [System Requirements](System-Requirements/README.md)
