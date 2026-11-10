@@ -5,7 +5,7 @@
 | No. | Name | Matric Number | Role and Responsibilities |
 |---|---|---|---|
 | 1 | Mey A/P Lian | S88902 | | |
-| 2 | Nizarull Adib Khushairy Bin Rosli | S88903 | | |
+| 2 | Nizarull Adib Khushairy Bin Rosli | S88903 | Course Management Modules | |
 | 3 | Muhamad Arif Luqman Bin Muhamad | | | |
 
 ## 2. Team Member Biography
