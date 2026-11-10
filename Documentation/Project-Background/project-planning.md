@@ -6,7 +6,7 @@
 |---|---|---|---|
 | 1 | Mey A/P Lian | S88902 | Course Management Modules | |
 | 2 | Nizarull Adib Khushairy Bin Rosli | S88903 | Login and User Management Modules | |
-| 3 | Muhamad Arif Luqman Bin Muhamad | Learning and Assessment Module | | |
+| 3 | Muhamad Arif Luqman Bin Muhamad | | Learning and Assessment Module | |
 
 ## 2. Team Member Biography
 
