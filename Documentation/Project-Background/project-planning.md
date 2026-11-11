@@ -32,9 +32,9 @@ Bio: I am first year CS student with a primary focus on cloud security, system l
 
 | No. | Activity | Duration |
 |---|---|---|
-| 1 | Project Planning | |
-| 2 | Requirements Gathering | |
-| 3 | System Requirements | |
-| 4 | System Design | |
-| 5 | Final Report | |
-| 6 | Presentation | |
+| 1 | Project Planning | Week 4 |
+| 2 | Requirements Gathering | Week 4 to Week 5 |
+| 3 | System Requirements | Week 5 to Week 6 |
+| 4 | System Design | Week 4 to Week 7 |
+| 5 | Final Report | ? |
+| 6 | Presentation | ? |
