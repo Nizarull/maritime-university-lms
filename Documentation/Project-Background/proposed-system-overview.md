@@ -37,7 +37,10 @@ This module supports assignment and assessment activities. Lecturers can create 
 
 ## 5. Overall System Functionalities
 Users - Access the system through the login page. After successful, the system will direct them to the appropriate interface based on their assigned role.
+
 Students - View enrolled courses, access learning materials, view assignments, modules and quizzes, submit works and check their grades and feedback.
+
 Lecturers - Manage their courses, upload learning materials, create assignments, review student submissions (quiz, assignment, modules) and provide grades and feedback.
+
 Administrators - Manage user accounts and overlook the system access according to their assigned role and permissions.
 
