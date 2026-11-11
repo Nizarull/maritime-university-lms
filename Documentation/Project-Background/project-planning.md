@@ -12,7 +12,7 @@
 
 #### Member 1
 <img src="../images/member1.png" width="150">
-Mey A/P Lian - Computer Science Student (Cloud Computing Security)
+**Mey A/P Lian - Computer Science Student (Cloud Computing Security)**
 
 Bio: I am first year CS student with a primary focus on cloud security, system logic, and secure application design. I am driven by a curiosity for how cloud infrastructure operate and commitment to build a reliable and secure software systems from the ground up.
 #### Member 2
