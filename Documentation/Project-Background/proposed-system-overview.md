@@ -18,12 +18,15 @@ The system follows a three-tier architecture consisting of the presentation laye
 The proposed of Learning Management System (LMS) contains of three main modules:
 
 1. Login and User Management Module
+
 This module manage user login and account information. Users can login and logout of the system using their registered data. This system provides role-based access for administrators, lecturers and students. Users can also manage their profile tab and passwords.
 
 2. Course Management Module
+
 This module allows lecturers to create, update, upload and manage course information. Students can view available courses and enroll in courses according to the system's enrollment rules. Lecturers can upload learning materials while students can access and download their study materials.
 
 3. Learning and Assesment Module
+
 This module supports assignment and assessment activities. Lecturers can create assignments, set submission deadlines, review student submissions, give grades and feedback. For students, they can view assignments, submit their works and check their results and feedback from their lecturers based on their enrolled courses.
 
 ## 4. Target Users
