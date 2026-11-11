@@ -11,7 +11,7 @@
 ## 2. Team Member Biography
 
 #### Member 1
-![Member 1](../images/member1.png)
+<img src="../images/member1.png" width="150">
 
 #### Member 2
 
