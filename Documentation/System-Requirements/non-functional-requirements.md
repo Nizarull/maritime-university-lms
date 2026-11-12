@@ -3,13 +3,30 @@
 
 Example : 
 1. Security requirements
+(Secure login, role based access and data protection)
+...
 
-2. Performance requirements
+3. Performance requirements
+(fast response time and support for multiple users)
+...
 
-3. Efficiency requirements
+5. Compatibility requirements
+(Supports different browsers and devices)
+- not sure need to do different devices or not (e.g. laptop, tab, phone)
+...
 
-4. Product requirements
+5. Reliability requirements
+(Consistent operation, minimal downtime and data backup)
+...
 
-5. Dependability requirements
+5. Usability requirements
+(Simple interface and easy navigation)
+...
 
-6. Usability requirements 
+7. Maintainability requirements
+(Easy to modify, update and troubleshoot）
+...
+
+9. Data Integrity requirements
+(Accurate, consistent and valid data storage)
+...
