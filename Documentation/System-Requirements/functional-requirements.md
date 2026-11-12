@@ -4,7 +4,7 @@
 Users
 1. User shall be able to login according to their given credentials such as students, lecturers and administrators.
 
-2. 
+2. Users can edit and change their own profile and passwords in their profile tab.
 
 Students
 1. Students be able to search and lookup for the courses they had enroll in course management module.
@@ -17,6 +17,5 @@ Lecturers
 2. 
 
 Administrators 
-1. Admin can manage users profile and data, managing passwords for users or updating profiles.
-
+1. Admin can register the users such as students, manage users data.
 2. 
