@@ -4,7 +4,7 @@
 ## 1. System Description
 The proposed Learning Management System (LMS) is a web-based platform designed to support teaching and learning activities in University Malaysia Terengganu (UMT). It offers an integrated platform where lecturers, administrative staff and students have access and management of academic information and learning activities. 
 
-The system follows a three-tier architecture consisting of the presentation layer, application layer, and database layer. 
+The system follows a three-tier architecture consisting of the the presentation layer, application layer, and database layer. 
 - Presentation layer: Provides the user interface where students, lecturers and administrative staff interact with the LMS through a web browser.
 - Application layer: Responsible for system functionalities such as user login, course management, assignment submission, grading, and feedback.
 - Database layer: Stores data and manages user accounts, course details, learning materials, assignments, submissions, and academic results.
@@ -12,7 +12,7 @@ The system follows a three-tier architecture consisting of the presentation laye
 ## 2. Core Modules
 - Login and User Management
 - Course Management
-- Learning and Assesment
+- Learning and Assesment Management
 
 ## 3. System Objectives
 The proposed of Learning Management System (LMS) contains of three main modules:
